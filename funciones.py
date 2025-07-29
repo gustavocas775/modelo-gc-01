@@ -4,4 +4,4 @@ def suma(a,b):
     return a+b +a
 
 def resta(a,b):
-    return a-b +a
+    return a-b +a +1
